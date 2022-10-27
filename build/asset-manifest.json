@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d15b418c.css",
+    "main.js": "/static/js/main.fbe48b98.js",
+    "static/js/787.55f350d7.chunk.js": "/static/js/787.55f350d7.chunk.js",
+    "static/media/ingressive.png": "/static/media/ingressive.1253a6f88024e3d71a0f.png",
+    "static/media/slack.png": "/static/media/slack.55ad9eabc7f642f5e5a5.png",
+    "static/media/zuri.svg": "/static/media/zuri.c1374ed8f5fcb9c35e71bb6fbf191695.svg",
+    "index.html": "/index.html",
+    "main.d15b418c.css.map": "/static/css/main.d15b418c.css.map",
+    "main.fbe48b98.js.map": "/static/js/main.fbe48b98.js.map",
+    "787.55f350d7.chunk.js.map": "/static/js/787.55f350d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15b418c.css",
+    "static/js/main.fbe48b98.js"
+  ]
+}
